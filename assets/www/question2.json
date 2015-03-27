@@ -1,0 +1,8 @@
+{
+        "id": 2,
+        "question" : "Frage 2",
+        "answer" :  ["Antwort 2.1", "Antwort 2.2", "Antwort 2.3", "Antwort 2.4"],
+        "rightAnswerIndex" : "3",
+        "questionImage": "img.png", 
+        "time": 40
+}

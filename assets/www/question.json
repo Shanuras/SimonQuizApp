@@ -1,0 +1,90 @@
+[
+    {
+        "question": "Frage 1",
+        "rightAnswer": "Richtige Antwort 1",
+        "wrongAnswer1": "Falsche Antwort 1.1",
+        "wrongAnswer2": "Falsche Antwort 1.2",
+        "wrongAnswer3": "Falsche Antwort 1.3",
+        "image": "img.png"
+    },
+    {
+        "question": "Frage 2",
+        "rightAnswer": "Richtige Antwort 2",
+        "wrongAnswer1": "Falsche Antwort 2.1",
+        "wrongAnswer2": "Falsche Antwort 2.2",
+        "wrongAnswer3": "Falsche Antwort 2.3",
+        "image": "img.png"
+    },
+    {
+        "question": "Frage 3",
+        "rightAnswer": "Richtige Antwort 3",
+        "wrongAnswer1": "Falsche Antwort 3.1",
+        "wrongAnswer2": "Falsche Antwort 3.2",
+        "wrongAnswer3": "Falsche Antwort 3.3",
+        "image": "img.png"
+    },
+    {
+        "question": "Frage 4",
+        "rightAnswer": "Richtige Antwort 4",
+        "wrongAnswer1": "Falsche Antwort 4.1",
+        "wrongAnswer2": "Falsche Antwort 4.2",
+        "wrongAnswer3": "Falsche Antwort 4.3",
+        "image": "img.png"
+    },
+    {
+        "question": "Frage 5",
+        "rightAnswer": "Richtige Antwort 5",
+        "wrongAnswer1": "Falsche Antwort 5.1",
+        "wrongAnswer2": "Falsche Antwort 5.2",
+        "wrongAnswer3": "Falsche Antwort 5.3",
+        "image": "img.png"
+    },
+    {
+        "question": "Frage 6",
+        "rightAnswer": "Richtige Antwort 6",
+        "wrongAnswer1": "Falsche Antwort 6.1",
+        "wrongAnswer2": "Falsche Antwort 6.2",
+        "wrongAnswer3": "Falsche Antwort 6.3",
+        "image": "img.png"
+    },
+    {
+        "question": "Frage 7",
+        "rightAnswer": "Richtige Antwort 7",
+        "wrongAnswer1": "Falsche Antwort 7.1",
+        "wrongAnswer2": "Falsche Antwort 7.2",
+        "wrongAnswer3": "Falsche Antwort 7.3",
+        "image": "img.png"
+    },
+    {
+        "question": "Frage 8",
+        "rightAnswer": "Richtige Antwort 8",
+        "wrongAnswer1": "Falsche Antwort 8.1",
+        "wrongAnswer2": "Falsche Antwort 8.2",
+        "wrongAnswer3": "Falsche Antwort 8.3",
+        "image": "img.png"
+    },
+    {
+        "question": "Frage 9",
+        "rightAnswer": "Richtige Antwort 9",
+        "wrongAnswer1": "Falsche Antwort 9.1",
+        "wrongAnswer2": "Falsche Antwort 9.2",
+        "wrongAnswer3": "Falsche Antwort 9.3",
+        "image": "img.png"
+    },
+    {
+        "question": "Frage 10",
+        "rightAnswer": "Richtige Antwort 10",
+        "wrongAnswer1": "Falsche Antwort 10.1",
+        "wrongAnswer2": "Falsche Antwort 10.2",
+        "wrongAnswer3": "Falsche Antwort 10.3",
+        "image": "img.png"
+    },
+    {
+        "question": "Frage 11",
+        "rightAnswer": "Richtige Antwort 11",
+        "wrongAnswer1": "Falsche Antwort 11.1",
+        "wrongAnswer2": "Falsche Antwort 11.2",
+        "wrongAnswer3": "Falsche Antwort 11.3",
+        "image": "img.png"
+    }
+]
